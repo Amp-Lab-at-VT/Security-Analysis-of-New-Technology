@@ -1,0 +1,2 @@
+# Security-Analysis-of-New-Technology
+We are looking at new devices, apps, and websites to analyze for security weaknesses. This will be an ongoing project as we find new targets to look at and techniques to learn. One of the first techniques we want to learn is to take apart a device, dump the firmware, and reverse engineer the code. This is a difficult skill to acquire in the wild and would be a great experience
