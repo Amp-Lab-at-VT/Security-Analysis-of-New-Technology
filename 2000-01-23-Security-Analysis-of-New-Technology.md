@@ -9,10 +9,7 @@ hero_height: is-small
 hero_darken: true
 tags: project
 series: amp_lab_project
-author: Conor Patrick
-Noah Luther
-Jean-Philippe
-Colin Burgin
+author: Conor Patrick, Noah Luther, Jean-Philippe, Colin Burgin
 show_sidebar: false
 ---
 
