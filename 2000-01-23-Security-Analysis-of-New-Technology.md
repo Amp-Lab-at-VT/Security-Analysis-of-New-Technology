@@ -4,7 +4,7 @@ title: Security Analysis of New Technology
 description: We are looking at new devices, apps, and websites to analyze for security weaknesses. This will be an ongoing project as we find new targets to look at and techniques to learn. One of the first techniques we want to learn is to take apart a device, dump the firmware, and reverse engineer the code. This is a difficult skill to acquire in the wild and would be a great experience
 date: 2000-01-23 09:00:00
 hero_image: /web/img/Security-Analysis-of-New-Technology/Hero.png
-image: /web/img/Security-Analysis-of-New-Technology/Hero.png
+# image /web/img/Security-Analysis-of-New-Technology/Hero.png
 hero_height: is-small
 hero_darken: true
 tags: project
