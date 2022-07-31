@@ -25,7 +25,7 @@ Jean-Philippe
 Colin Burgin
 
 ## Repo Link
-<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Security-Analysis-of-New-Technology"" >Security-Analysis-of-New-Technology</a>
+<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Security-Analysis-of-New-Technology" >Security-Analysis-of-New-Technology</a>
 
 ## Photo
 
